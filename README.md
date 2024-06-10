@@ -1,11 +1,11 @@
-# Day-2
+# Day-3
 # Notebook 1
-*If Conditions
+*Break Statements
 # Notebook 2
-*If else Conditions
+* Continue Statements
 # Notebook 3
-* If elif Conditions
+* Pass Statements
 # Notebook 4
-* For Loop
+* Statistcal Functions
 # Notebook 5
-* While Loop
+* Logical Operators
